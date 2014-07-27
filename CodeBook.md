@@ -1,8 +1,9 @@
 # Getting and Cleaning Data
 ## Course Project
-### Tidy Data Set COdebook
+### Tidy Data Set Codebook
 
 aoshotse
+
 =================================================================================
 
 
