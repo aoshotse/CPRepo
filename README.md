@@ -37,7 +37,7 @@ the UCI dataset: setwd("C:/...UCI HAR Dataset")
 
 * The script is designed such that it can be copied and pasted into the
 r console as is and produce the tidy data set given the working directory
-is the UCI dataset. If you want to run the script, BE AWARE that the final
+is "UCI HAR Dataset". If you want to run the script, BE AWARE that the final
 line WRITES a "TidyData.csv" file to the working directory.
 
 * There is also AMPLE documentation in the script to 
