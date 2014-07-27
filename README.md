@@ -1,8 +1,9 @@
 # ReadMe
 
-Getting and Cleaning Data
-Course Project
-Tidy Data Set ReadMe
+### Getting and Cleaning Data
+### Course Project
+### Tidy Data Set ReadMe
+
 aoshotse
 ============================================================================
 
