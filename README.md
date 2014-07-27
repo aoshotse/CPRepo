@@ -88,11 +88,8 @@ variables) in variables to columns in totdata starting from the third
 column. Now the feature variables are combined with the data.
 The variable totdata1 is returned.
 
-*****Note that cloumn names were deemed descriptive enough*****
-*****and NOT changed. This was deliberate, given the context***
-*****of the data (measures along axes, time and frequency *****
-*****measurements, etc). Also, the special characters do not***
-*****interfere with calls to the column names.*****************
+*****Note that cloumn names were deemed descriptive enough and NOT changed. This was deliberate, given the context of the data (measures along axes, time and frequency measurements, etc). Also, the special characters do not interfere with calls to the column names.*****
+
 
 10.) The function 'meansdex' extracts the columns of totdata1 that represent 
 mean or standard deviation measurements using the 'grepl' function.
